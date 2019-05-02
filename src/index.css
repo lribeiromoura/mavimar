@@ -7,8 +7,27 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+header {
+  padding: 156px 0 100px;
+}
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+section {
+  padding: 150px 0;
+}
+
+.colortext{
+  color: rgb(0, 27, 74) !important;
+}
+.navbar{
+  height: 90px !important;
+}
+
+
+.py-5{
+  height: 10px !important;
+}
+
+.box{
+  background-color: rgba(0, 0, 0, 0.3);
+  filter: alpha(opacity=100);
 }
