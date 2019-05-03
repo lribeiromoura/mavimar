@@ -11,6 +11,7 @@ function App() {
       <body id="page-top">
         <Nav></Nav>
         <Empresa></Empresa>
+        <Institucional></Institucional>
         <Footer></Footer>
       </body>
     </div>
