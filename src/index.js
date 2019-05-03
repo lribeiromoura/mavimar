@@ -6,7 +6,7 @@ import * as serviceWorker from './serviceWorker';
 import {Router, Route, browserHistory} from 'react-router';
 import Servicos from './Components/Servicos';
 import Contato from './Components/Contato';
-import Institucional from '../src/Components/Institucional';
+import Institucional from './Institucional';
 import Principios from './Components/Principios';
 import Segurança from './Components/Seguranca';
 

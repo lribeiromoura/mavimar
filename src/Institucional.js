@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
-import '../index.css'
-import Nav from './Nav';
-import Footer from './Footer';
-import aempresa from '../img/aempresa.jpg';
-import margemesquerda from '../img/margemesquerda.jpg';
+import './index.css'
+import Nav from './Components/Nav';
+import Footer from './Components/Footer';
+import aempresa from '../src/img/aempresa.jpg';
+import margemesquerda from '../src/img/margemesquerda.jpg';
 
 export default class Institucional extends Component{
     render(){

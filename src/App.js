@@ -1,7 +1,7 @@
 import React from 'react';
 import './index.css';
 import Nav from './Components/Nav';
-import Institucional from './Components/Institucional';
+import Institucional from './Institucional';
 import Empresa from './Components/Empresa';
 import Footer from './Components/Footer';
 
