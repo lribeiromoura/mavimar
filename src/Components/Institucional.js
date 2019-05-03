@@ -17,7 +17,7 @@ export default class Institucional extends Component{
                 <div className="col-lg-8 mx-auto">
                     <img className="mx-auto d-block img-fluid" src={aempresa}></img>
                     <br></br>
-                    <h2 className="colortext">A Empresa</h2>
+                    <h2 className="colortext">A Empresa:</h2>
                     <p className="lead colortext">
                         A Mavimar Transportes, empresa constituída em 2004, atua na prestação de serviços de transportes de contêineres e carga solta, nos âmbitos Municipais, Estaduais e Nacionais, sendo transferência de terminais, Devolução de Off-hires, exportação e importação no regime DI e também credenciada pela Receita Federal para operar com DTA (Declaração de Trânsito Aduaneiro).
 

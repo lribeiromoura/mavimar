@@ -4,6 +4,8 @@ import Mavlogo from '../../src/img/logo.png'
 export default class Nav extends Component{
     render(){
         return(
+
+            
             <nav className="navbar navbar-expand-lg navbar-light bg-white fixed-top" id="mainNav">
                 <div className="container">
                     <a className="navbar-brand js-scroll-trigger" href="/"><img class="img-fluid float-left" src={Mavlogo}alt=""></img></a>
