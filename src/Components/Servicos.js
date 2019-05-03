@@ -25,9 +25,10 @@ export default class Servicos extends Component{
                     <div class="card">
                         <div class="card-header" id="headingOne">
                         <h2 class="mb-0">
-                            <button class="btn btn-link colortext" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            <button class="btn btn-link colortext dropdown-toggle btnwidth" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                             Container
                             </button>
+                            
                         </h2>
                         </div>
 
@@ -48,8 +49,8 @@ export default class Servicos extends Component{
                     <div class="card">
                         <div class="card-header" id="headingTwo">
                             <h2 class="mb-0">
-                                <button class="btn btn-link collapsed colortext" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Container Vazio
+                                <button class="btn btn-link collapsed colortext dropdown-toggle btnwidth" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Container Vazio 
                                 </button>
                             </h2>
                         </div>
@@ -67,7 +68,7 @@ export default class Servicos extends Component{
                     <div class="card">
                         <div class="card-header" id="headingThree">
                         <h2 class="mb-0">
-                            <button class="btn btn-link collapsed colortext" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            <button class="btn btn-link collapsed colortext btnwidth dropdown-toggle" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                 Cargas Excedentes
                             </button>
                         </h2>

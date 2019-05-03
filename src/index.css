@@ -22,3 +22,13 @@ section {
   height: 90px !important;
 }
 
+
+.btnwidth{
+  width: 100%;
+  text-align: left;
+}
+
+.spanz{
+  display: flex;
+  align-content: space-between;
+}
