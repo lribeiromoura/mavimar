@@ -6,10 +6,16 @@ import * as serviceWorker from './serviceWorker';
 import {Router, Route, browserHistory} from 'react-router';
 import Servicos from './Components/Servicos';
 import Contato from './Components/Contato';
+import Institucional from './Components/Institucional';
+import Principios from './Components/Principios';
+import Segurança from './Components/Seguranca';
 
 ReactDOM.render(
     <Router history={browserHistory}>
         <Route path='/' component={App}></Route>
+        <Route path='/institucional' component={Institucional}></Route>
+        <Route path='/principios' component={Principios}></Route>
+        <Route path='/seguranca' component={Segurança}></Route>
         <Route path='/services' component={Servicos}></Route>
         <Route path='/contact' component={Contato}></Route>
     </Router>

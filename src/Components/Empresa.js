@@ -16,8 +16,7 @@ export default class Empresa extends Component{
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img class="d-block w-100" src={Truck} alt="First slide" />
-                        <div class="carousel-caption d-none d-md-block">   
-                                               
+                        <div class="carousel-caption d-none d-md-block">                                                  
                             <h2 >Nossa Missão</h2>
                             <p className="lead ">
                                 Resolver com qualidade todos e quaisquer problemas em Transporte, desenvolvendo soluções definitivas para a tranquilidade dos nossos clientes.

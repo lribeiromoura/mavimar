@@ -21,9 +21,9 @@ export default class Nav extends Component{
                         Empresa
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#institucional">Institucional</a>
-                        <a class="dropdown-item" href="#principios">Princípios</a>
-                        <a class="dropdown-item" href="#">Something else here</a>
+                        <a class="dropdown-item" href="institucional">Institucional</a>
+                        <a class="dropdown-item" href="principios">Princípios</a>
+                        <a class="dropdown-item" href="seguranca">Segurança</a>
                         </div>
                     </li>
                        
